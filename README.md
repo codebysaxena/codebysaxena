@@ -98,6 +98,12 @@ Alongside backend development, I enjoy solving Data Structures & Algorithms prob
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/codebysaxena/codebysaxena/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="left">
