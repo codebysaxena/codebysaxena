@@ -98,6 +98,18 @@ Alongside backend development, I enjoy solving Data Structures & Algorithms prob
 
 ---
 
+## 📊 GitHub Stats
+
+![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebysaxena&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codebysaxena&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
 ## 🤝 Let's Connect
 
 <p align="left">
