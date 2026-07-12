@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Anubhav Saxena
+<h1 align="center">Hi 👋, I'm Anubhav Saxena</h1>
 
-### Software Engineer | Java Backend Developer | Spring Boot Enthusiast
+<h3 align="center"> Software Engineer @ LG Soft India | Java Backend Developer | Spring Boot | Kafka | Redis | MySQL </h3>
 
 I'm a Software Engineer at LG Soft India with a strong interest in Backend Engineering, Distributed Systems, and Scalable Application Development.
 
@@ -86,15 +86,29 @@ Alongside backend development, I enjoy solving Data Structures & Algorithms prob
 
 ## 📈 Coding Profiles
 
-* 🟠 LeetCode: https://leetcode.com/u/Anubhav_0902/
-* 🟢 HackerRank: https://www.hackerrank.com/Anubhav_0902
+<p align="left">
+  <a href="https://leetcode.com/u/Anubhav_0902/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Anubhav__0902-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/Anubhav_0902" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Anubhav__0902-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-* LinkedIn: [https://www.linkedin.com/in/anubhav0902/]
-* Email: [saxenaanubhav790@gmail.com]
+<p align="left">
+  <a href="https://www.linkedin.com/in/anubhav0902/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Saxena-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:saxenaanubhav790@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
