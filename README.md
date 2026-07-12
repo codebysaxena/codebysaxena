@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=codebysaxena&color=blueviolet)
+
 <h1 align="center">Hi 👋, I'm Anubhav Saxena</h1>
 
 <h3 align="center"> Software Engineer @ LG Soft India | Java Backend Developer | Spring Boot | Kafka | Redis | MySQL </h3>
